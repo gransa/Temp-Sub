@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-04T18:35:30.209209+00:00",
+  "timestamp": "2025-06-04T19:20:17.282284+00:00",
   "channels": [
     {
       "url": "https://xb.inekokkk.com/amei/6ca22ad3b96aa6601fbe4457dad107a2",
@@ -8,11 +8,11 @@
         "total_configs": 156,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.82,
+        "avg_response_time": 0.78,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.69,
-        "last_success": "2025-06-04T18:35:27.430812+00:00",
+        "overall_score": 75.76,
+        "last_success": "2025-06-04T19:20:14.622564+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
