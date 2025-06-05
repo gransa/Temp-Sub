@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-05T02:03:23.190696+00:00",
+  "timestamp": "2025-06-05T03:50:15.610785+00:00",
   "channels": [
     {
       "url": "https://xb.inekokkk.com/amei/6ca22ad3b96aa6601fbe4457dad107a2",
@@ -11,8 +11,8 @@
         "avg_response_time": 0.74,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.82,
-        "last_success": "2025-06-05T02:03:17.617594+00:00",
+        "overall_score": 75.81,
+        "last_success": "2025-06-05T03:50:13.133981+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
