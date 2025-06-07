@@ -79,17 +79,40 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇻🇳 vless-a0c4f88c (Vietnam)",
-        "🇨🇦 vless-a5577398 (Canada)",
-        "🇺🇸 vless-e4d7aea5 (United States)",
-        "🇺🇸 vless-1be548b6 (United States)",
-        "🇺🇸 vless-4c056447 (United States)",
-        "🇭🇰 vless-dbdd29fd (Hong Kong)",
-        "🇭🇰 vless-a3502b16 (Hong Kong)",
-        "🇭🇰 vless-9adf40e9 (Hong Kong)",
-        "🇭🇰 vless-154875fb (Hong Kong)",
-        "🇭🇰 vless-b15f409f (Hong Kong)",
-        "🇭🇰 vless-5936cd25 (Hong Kong)",
+        "🇭🇰 hysteria2-ee669356 (Hong Kong)",
+        "🇭🇰 hysteria2-3d788009 (Hong Kong)",
+        "🇭🇰 hysteria2-b5f6728a (Hong Kong)",
+        "🇭🇰 hysteria2-ef3e0b7a (Hong Kong)",
+        "🇭🇰 hysteria2-94ba76e6 (Hong Kong)",
+        "🇭🇰 hysteria2-85bfbdc6 (Hong Kong)",
+        "🇭🇰 hysteria2-c43be91c (Hong Kong)",
+        "🇯🇵 hysteria2-ed856163 (Japan)",
+        "🇯🇵 hysteria2-ae6175ff (Japan)",
+        "🇯🇵 hysteria2-06bdc623 (Japan)",
+        "🇯🇵 hysteria2-24affcdb (Japan)",
+        "🇺🇸 hysteria2-e8c54684 (United States)",
+        "🇺🇸 hysteria2-d0307648 (United States)",
+        "🇺🇸 hysteria2-1295ec1f (United States)",
+        "🇺🇸 hysteria2-1999dfd2 (United States)",
+        "🇺🇸 hysteria2-c2e8fb36 (United States)",
+        "🇺🇸 hysteria2-7c0ee89b (United States)",
+        "🇺🇸 hysteria2-51211da9 (United States)",
+        "🇺🇸 hysteria2-7234d559 (United States)",
+        "🇺🇸 hysteria2-7fb4a43e (United States)",
+        "🇺🇸 hysteria2-b6f9d36d (United States)",
+        "🇺🇸 hysteria2-a895c293 (United States)",
+        "🇺🇸 hysteria2-7368efda (United States)",
+        "🇻🇳 vless-a7b71520 (Vietnam)",
+        "🇨🇦 vless-84d99432 (Canada)",
+        "🇺🇸 vless-31ce68d1 (United States)",
+        "🇺🇸 vless-5eb5318f (United States)",
+        "🇺🇸 vless-17ae7258 (United States)",
+        "🇭🇰 vless-4dc7fba1 (Hong Kong)",
+        "🇭🇰 vless-23ffbf62 (Hong Kong)",
+        "🇭🇰 vless-85452105 (Hong Kong)",
+        "🇭🇰 vless-739a10fa (Hong Kong)",
+        "🇭🇰 vless-e57c884c (Hong Kong)",
+        "🇭🇰 vless-77ed81e1 (Hong Kong)",
         "direct"
       ]
     },
@@ -97,17 +120,40 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇻🇳 vless-a0c4f88c (Vietnam)",
-        "🇨🇦 vless-a5577398 (Canada)",
-        "🇺🇸 vless-e4d7aea5 (United States)",
-        "🇺🇸 vless-1be548b6 (United States)",
-        "🇺🇸 vless-4c056447 (United States)",
-        "🇭🇰 vless-dbdd29fd (Hong Kong)",
-        "🇭🇰 vless-a3502b16 (Hong Kong)",
-        "🇭🇰 vless-9adf40e9 (Hong Kong)",
-        "🇭🇰 vless-154875fb (Hong Kong)",
-        "🇭🇰 vless-b15f409f (Hong Kong)",
-        "🇭🇰 vless-5936cd25 (Hong Kong)"
+        "🇭🇰 hysteria2-ee669356 (Hong Kong)",
+        "🇭🇰 hysteria2-3d788009 (Hong Kong)",
+        "🇭🇰 hysteria2-b5f6728a (Hong Kong)",
+        "🇭🇰 hysteria2-ef3e0b7a (Hong Kong)",
+        "🇭🇰 hysteria2-94ba76e6 (Hong Kong)",
+        "🇭🇰 hysteria2-85bfbdc6 (Hong Kong)",
+        "🇭🇰 hysteria2-c43be91c (Hong Kong)",
+        "🇯🇵 hysteria2-ed856163 (Japan)",
+        "🇯🇵 hysteria2-ae6175ff (Japan)",
+        "🇯🇵 hysteria2-06bdc623 (Japan)",
+        "🇯🇵 hysteria2-24affcdb (Japan)",
+        "🇺🇸 hysteria2-e8c54684 (United States)",
+        "🇺🇸 hysteria2-d0307648 (United States)",
+        "🇺🇸 hysteria2-1295ec1f (United States)",
+        "🇺🇸 hysteria2-1999dfd2 (United States)",
+        "🇺🇸 hysteria2-c2e8fb36 (United States)",
+        "🇺🇸 hysteria2-7c0ee89b (United States)",
+        "🇺🇸 hysteria2-51211da9 (United States)",
+        "🇺🇸 hysteria2-7234d559 (United States)",
+        "🇺🇸 hysteria2-7fb4a43e (United States)",
+        "🇺🇸 hysteria2-b6f9d36d (United States)",
+        "🇺🇸 hysteria2-a895c293 (United States)",
+        "🇺🇸 hysteria2-7368efda (United States)",
+        "🇻🇳 vless-a7b71520 (Vietnam)",
+        "🇨🇦 vless-84d99432 (Canada)",
+        "🇺🇸 vless-31ce68d1 (United States)",
+        "🇺🇸 vless-5eb5318f (United States)",
+        "🇺🇸 vless-17ae7258 (United States)",
+        "🇭🇰 vless-4dc7fba1 (Hong Kong)",
+        "🇭🇰 vless-23ffbf62 (Hong Kong)",
+        "🇭🇰 vless-85452105 (Hong Kong)",
+        "🇭🇰 vless-739a10fa (Hong Kong)",
+        "🇭🇰 vless-e57c884c (Hong Kong)",
+        "🇭🇰 vless-77ed81e1 (Hong Kong)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -118,8 +164,284 @@
       "type": "direct"
     },
     {
+      "type": "hysteria2",
+      "tag": "🇭🇰 hysteria2-ee669356 (Hong Kong)",
+      "server": "hk.xn--vpn-3f0h822m.com",
+      "server_port": 20105,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "hk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇭🇰 hysteria2-3d788009 (Hong Kong)",
+      "server": "hk.xn--vpn-3f0h822m.com",
+      "server_port": 20129,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "hk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇭🇰 hysteria2-b5f6728a (Hong Kong)",
+      "server": "hk.xn--vpn-3f0h822m.com",
+      "server_port": 20162,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "hk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇭🇰 hysteria2-ef3e0b7a (Hong Kong)",
+      "server": "hk.xn--vpn-3f0h822m.com",
+      "server_port": 20162,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "hk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇭🇰 hysteria2-94ba76e6 (Hong Kong)",
+      "server": "hk.xn--vpn-3f0h822m.com",
+      "server_port": 20162,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "hk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇭🇰 hysteria2-85bfbdc6 (Hong Kong)",
+      "server": "hk.xn--vpn-3f0h822m.com",
+      "server_port": 20162,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "hk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇭🇰 hysteria2-c43be91c (Hong Kong)",
+      "server": "hk.xn--vpn-3f0h822m.com",
+      "server_port": 20199,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "hk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇯🇵 hysteria2-ed856163 (Japan)",
+      "server": "jp.xn--vpn-3f0h822m.com",
+      "server_port": 20109,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "jp.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇯🇵 hysteria2-ae6175ff (Japan)",
+      "server": "jp.xn--vpn-3f0h822m.com",
+      "server_port": 20129,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "jp.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇯🇵 hysteria2-06bdc623 (Japan)",
+      "server": "jp.xn--vpn-3f0h822m.com",
+      "server_port": 20160,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "jp.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇯🇵 hysteria2-24affcdb (Japan)",
+      "server": "jp.xn--vpn-3f0h822m.com",
+      "server_port": 20185,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "jp.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-e8c54684 (United States)",
+      "server": "sg.xn--vpn-3f0h822m.com",
+      "server_port": 20106,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "sg.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-d0307648 (United States)",
+      "server": "sg.xn--vpn-3f0h822m.com",
+      "server_port": 20160,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "sg.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-1295ec1f (United States)",
+      "server": "sg.xn--vpn-3f0h822m.com",
+      "server_port": 20170,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "sg.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-1999dfd2 (United States)",
+      "server": "sg.xn--vpn-3f0h822m.com",
+      "server_port": 20186,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "sg.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-c2e8fb36 (United States)",
+      "server": "uk.xn--vpn-3f0h822m.com",
+      "server_port": 20109,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "uk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-7c0ee89b (United States)",
+      "server": "uk.xn--vpn-3f0h822m.com",
+      "server_port": 20126,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "uk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-51211da9 (United States)",
+      "server": "uk.xn--vpn-3f0h822m.com",
+      "server_port": 20130,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "uk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-7234d559 (United States)",
+      "server": "uk.xn--vpn-3f0h822m.com",
+      "server_port": 20142,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "uk.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-7fb4a43e (United States)",
+      "server": "us.xn--vpn-3f0h822m.com",
+      "server_port": 20112,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "us.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-b6f9d36d (United States)",
+      "server": "us.xn--vpn-3f0h822m.com",
+      "server_port": 20159,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "us.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-a895c293 (United States)",
+      "server": "us.xn--vpn-3f0h822m.com",
+      "server_port": 20168,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "us.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-7368efda (United States)",
+      "server": "us.xn--vpn-3f0h822m.com",
+      "server_port": 20187,
+      "password": "4270ff13-acf0-4514-8976-9ef331e990b4",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "us.xn--vpn-3f0h822m.com"
+      }
+    },
+    {
       "type": "vless",
-      "tag": "🇻🇳 vless-a0c4f88c (Vietnam)",
+      "tag": "🇻🇳 vless-a7b71520 (Vietnam)",
       "server": "103.15.91.138",
       "server_port": 21488,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
@@ -133,7 +455,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-a5577398 (Canada)",
+      "tag": "🇨🇦 vless-84d99432 (Canada)",
       "server": "104.152.210.36",
       "server_port": 25536,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
@@ -147,7 +469,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-e4d7aea5 (United States)",
+      "tag": "🇺🇸 vless-31ce68d1 (United States)",
       "server": "38.135.24.40",
       "server_port": 25536,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
@@ -161,7 +483,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-1be548b6 (United States)",
+      "tag": "🇺🇸 vless-5eb5318f (United States)",
       "server": "38.135.24.40",
       "server_port": 25536,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
@@ -175,7 +497,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-4c056447 (United States)",
+      "tag": "🇺🇸 vless-17ae7258 (United States)",
       "server": "38.135.24.40",
       "server_port": 25536,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
@@ -189,7 +511,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇭🇰 vless-dbdd29fd (Hong Kong)",
+      "tag": "🇭🇰 vless-4dc7fba1 (Hong Kong)",
       "server": "38.225.100.135",
       "server_port": 43000,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
@@ -203,7 +525,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇭🇰 vless-a3502b16 (Hong Kong)",
+      "tag": "🇭🇰 vless-23ffbf62 (Hong Kong)",
       "server": "38.225.101.77",
       "server_port": 43000,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
@@ -217,7 +539,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇭🇰 vless-9adf40e9 (Hong Kong)",
+      "tag": "🇭🇰 vless-85452105 (Hong Kong)",
       "server": "38.225.101.82",
       "server_port": 43000,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
@@ -231,7 +553,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇭🇰 vless-154875fb (Hong Kong)",
+      "tag": "🇭🇰 vless-739a10fa (Hong Kong)",
       "server": "38.225.102.22",
       "server_port": 43000,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
@@ -245,7 +567,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇭🇰 vless-b15f409f (Hong Kong)",
+      "tag": "🇭🇰 vless-e57c884c (Hong Kong)",
       "server": "38.225.102.231",
       "server_port": 43000,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
@@ -259,7 +581,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇭🇰 vless-5936cd25 (Hong Kong)",
+      "tag": "🇭🇰 vless-77ed81e1 (Hong Kong)",
       "server": "38.225.102.31",
       "server_port": 43000,
       "uuid": "c33b1535-1557-4e0b-aa2b-f326c6151436",
