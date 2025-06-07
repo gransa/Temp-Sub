@@ -4,7 +4,7 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://xb.inekokkk.com/amei/6ca22ad3b96aa6601fbe4457dad107a2",
-    "https://img.xn--mesv8bx6xmtl.com/static/f7424eb5e96b8d9a3892c54c80d8069e",
+    "https://sub.xn--vpn-3f0h822m.com/s/56c52d37015ce5c33fd0b6112b639f08",
     # Add more URLs here if you want to include additional sources.
 ]
 
