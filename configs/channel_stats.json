@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-09T06:38:23.081392+00:00",
+  "timestamp": "2025-06-09T07:25:56.472757+00:00",
   "channels": [
     {
       "url": "https://xb.inekokkk.com/amei/6ca22ad3b96aa6601fbe4457dad107a2",
@@ -8,11 +8,11 @@
         "total_configs": 110,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.38,
-        "last_success": "2025-06-09T06:38:20.435029+00:00",
+        "overall_score": 76.33,
+        "last_success": "2025-06-09T07:25:53.408188+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 1892,
         "valid_configs": 23,
         "unique_configs": 23,
-        "avg_response_time": 0.62,
+        "avg_response_time": 1.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.37,
-        "last_success": "2025-06-09T06:38:23.080773+00:00",
+        "overall_score": 73.74,
+        "last_success": "2025-06-09T07:25:56.472053+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 23,
