@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-10T19:19:40.024531+00:00",
+  "timestamp": "2025-06-10T19:30:44.967623+00:00",
   "channels": [
     {
       "url": "https://xb.inekokkk.com/amei/6ca22ad3b96aa6601fbe4457dad107a2",
@@ -8,15 +8,38 @@
         "total_configs": 110,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.73,
+        "avg_response_time": 0.81,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.18,
-        "last_success": "2025-06-10T19:19:36.367270+00:00",
+        "overall_score": 76.07,
+        "last_success": "2025-06-10T19:30:39.763175+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 10,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://jc.huasuan666.top/api/v1/client/subscribe?token=05dd6e525ca86b5f950cd93e7bea3929",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 132,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.4,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 76.48,
+        "last_success": "2025-06-10T19:30:42.167302+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 11,
+          "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
@@ -31,11 +54,11 @@
         "total_configs": 1892,
         "valid_configs": 23,
         "unique_configs": 23,
-        "avg_response_time": 1.63,
+        "avg_response_time": 0.78,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.86,
-        "last_success": "2025-06-10T19:19:40.023914+00:00",
+        "overall_score": 74.14,
+        "last_success": "2025-06-10T19:30:44.967043+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 23,
