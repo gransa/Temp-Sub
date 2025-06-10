@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-10T19:31:56.269623+00:00",
+  "timestamp": "2025-06-10T20:28:15.293249+00:00",
   "channels": [
     {
       "url": "https://xb.inekokkk.com/amei/6ca22ad3b96aa6601fbe4457dad107a2",
@@ -11,8 +11,8 @@
         "avg_response_time": 0.83,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.03,
-        "last_success": "2025-06-10T19:31:50.997542+00:00",
+        "overall_score": 76.02,
+        "last_success": "2025-06-10T20:28:10.136065+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 132,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.49,
-        "last_success": "2025-06-10T19:31:53.392169+00:00",
+        "overall_score": 76.52,
+        "last_success": "2025-06-10T20:28:12.511738+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 11,
@@ -54,11 +54,11 @@
         "total_configs": 1892,
         "valid_configs": 23,
         "unique_configs": 23,
-        "avg_response_time": 0.85,
+        "avg_response_time": 0.76,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.02,
-        "last_success": "2025-06-10T19:31:56.269006+00:00",
+        "overall_score": 74.17,
+        "last_success": "2025-06-10T20:28:15.292625+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 23,
