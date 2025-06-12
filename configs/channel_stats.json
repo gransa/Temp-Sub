@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-06-12T22:24:22.756714+00:00",
+  "timestamp": "2025-06-12T22:41:05.245180+00:00",
   "channels": [
     {
-      "url": "https://xb.inekokkk.com/amei/6ca22ad3b96aa6601fbe4457dad107a2",
+      "url": "https://awa.inekokkk.immobilien/amei/6ca22ad3b96aa6601fbe4457dad107a2",
       "enabled": true,
       "metrics": {
         "total_configs": 110,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.66,
+        "avg_response_time": 1.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.28,
-        "last_success": "2025-06-12T22:24:15.219556+00:00",
+        "overall_score": 75.28,
+        "last_success": "2025-06-12T22:40:57.567549+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -25,17 +25,17 @@
       }
     },
     {
-      "url": "https://jc.huasuan666.top/api/v1/client/subscribe?token=05dd6e525ca86b5f950cd93e7bea3929",
+      "url": "https://vpn.huasuan666.top/api/v1/client/subscribe?token=05dd6e525ca86b5f950cd93e7bea3929",
       "enabled": true,
       "metrics": {
         "total_configs": 132,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.43,
-        "last_success": "2025-06-12T22:24:17.653946+00:00",
+        "overall_score": 76.48,
+        "last_success": "2025-06-12T22:40:59.967833+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 11,
@@ -54,11 +54,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.13,
-        "last_success": "2025-06-12T22:24:20.092782+00:00",
+        "overall_score": 76.26,
+        "last_success": "2025-06-12T22:41:02.322464+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
@@ -77,11 +77,11 @@
         "total_configs": 1892,
         "valid_configs": 23,
         "unique_configs": 23,
-        "avg_response_time": 0.64,
+        "avg_response_time": 0.9,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.35,
-        "last_success": "2025-06-12T22:24:22.755986+00:00",
+        "overall_score": 73.96,
+        "last_success": "2025-06-12T22:41:05.244383+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 23,
