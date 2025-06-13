@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-13T11:22:14.575437+00:00",
+  "timestamp": "2025-06-13T12:14:14.950472+00:00",
   "channels": [
     {
       "url": "https://awa.inekokkk.immobilien/amei/6ca22ad3b96aa6601fbe4457dad107a2",
@@ -8,11 +8,11 @@
         "total_configs": 156,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 1.06,
+        "avg_response_time": 1.02,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.33,
-        "last_success": "2025-06-13T11:22:06.182142+00:00",
+        "overall_score": 75.39,
+        "last_success": "2025-06-13T12:14:02.651776+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -25,17 +25,17 @@
       }
     },
     {
-      "url": "https://vpn.huasuan666.top/api/v1/client/subscribe?token=05dd6e525ca86b5f950cd93e7bea3929",
+      "url": "https://jc.huasuan666.top/api/v1/client/subscribe?token=05dd6e525ca86b5f950cd93e7bea3929",
       "enabled": true,
       "metrics": {
         "total_configs": 132,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.3,
-        "last_success": "2025-06-13T11:22:08.708576+00:00",
+        "overall_score": 76.46,
+        "last_success": "2025-06-13T12:14:05.071923+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 11,
@@ -54,11 +54,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.28,
-        "last_success": "2025-06-13T11:22:11.045567+00:00",
+        "overall_score": 76.43,
+        "last_success": "2025-06-13T12:14:07.308289+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
@@ -77,11 +77,57 @@
         "total_configs": 1892,
         "valid_configs": 23,
         "unique_configs": 23,
-        "avg_response_time": 1.51,
+        "avg_response_time": 0.71,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.05,
-        "last_success": "2025-06-13T11:22:14.574807+00:00",
+        "overall_score": 74.24,
+        "last_success": "2025-06-13T12:14:10.043036+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 23,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://sub.xn--3bs984e5qg.xyz/s/dcd03ae545a147ebb07420bcdd321ef5",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 182,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.14,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 76.57,
+        "last_success": "2025-06-13T12:14:12.189389+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 13,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://sub.xn--vpn-3f0h822m.com/s/ff7bb35d4ee18502c7e3b9f5bca2dfa2",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 1892,
+        "valid_configs": 23,
+        "unique_configs": 23,
+        "avg_response_time": 0.74,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 74.2,
+        "last_success": "2025-06-13T12:14:14.949783+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 23,
