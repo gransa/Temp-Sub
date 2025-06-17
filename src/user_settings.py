@@ -5,8 +5,6 @@
 SOURCE_URLS = [
     "https://awa.inekokkk.immobilien/amei/6ca22ad3b96aa6601fbe4457dad107a2",
     "https://sub.xn--3bs984e5qg.xyz/s/d2ddf60933dd08ad67d3585f72ed16c3",
-    "https://sub.xn--vpn-3f0h822m.com/s/56c52d37015ce5c33fd0b6112b639f08",
-    "https://sub.xn--3bs984e5qg.xyz/s/dcd03ae545a147ebb07420bcdd321ef5",
     "https://jc.huasuan666.top/api/v1/client/subscribe?token=8bc38a0c131e9b3fcd3a9083824c23e9",
     # Add more URLs here if you want to include additional sources.
 ]
