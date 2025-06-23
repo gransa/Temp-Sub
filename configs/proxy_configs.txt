@@ -4,31 +4,31 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@de.xn--3bs984e5qg.xyz:36707?mport=30001-39999&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD1%20%E4%B8%93%E7%BA%BF
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@de.xn--3bs984e5qg.xyz:30028?mport=30001-39999&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD1%20%E4%B8%93%E7%BA%BF
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@de.xn--3bs984e5qg.xyz:37810?mport=30001-39999&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD2%20%E4%B8%93%E7%BA%BF
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@de.xn--3bs984e5qg.xyz:37490?mport=30001-39999&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD2%20%E4%B8%93%E7%BA%BF
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@in.xn--3bs984e5qg.xyz:32628?mport=30001-39999&insecure=0#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A62%20%E4%B8%93%E7%BA%BF
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@in.xn--3bs984e5qg.xyz:30772?mport=30001-39999&insecure=0#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A62%20%E4%B8%93%E7%BA%BF
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@in.xn--3bs984e5qg.xyz:36098?mport=30001-39999&insecure=0#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A61%20%E4%B8%93%E7%BA%BF
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@in.xn--3bs984e5qg.xyz:33935?mport=30001-39999&insecure=0#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A61%20%E4%B8%93%E7%BA%BF
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@jp.xn--3bs984e5qg.xyz:33475?mport=30001-39999&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%20%E4%B8%93%E7%BA%BF
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@jp.xn--3bs984e5qg.xyz:36100?mport=30001-39999&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A0
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@jp.xn--3bs984e5qg.xyz:37949?mport=30001-39999&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A0
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@jp.xn--3bs984e5qg.xyz:36100?mport=30001-39999&insecure=0#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-07-11
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@jp.xn--3bs984e5qg.xyz:37949?mport=30001-39999&insecure=0#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-07-11
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@jp.xn--3bs984e5qg.xyz:36100?mport=30001-39999&insecure=0#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A17%20%E5%A4%A9
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@jp.xn--3bs984e5qg.xyz:37949?mport=30001-39999&insecure=0#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A17%20%E5%A4%A9
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@jp.xn--3bs984e5qg.xyz:36100?mport=30001-39999&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC1%20%E4%B8%93%E7%BA%BF
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@jp.xn--3bs984e5qg.xyz:37949?mport=30001-39999&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC1%20%E4%B8%93%E7%BA%BF
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@jp.xn--3bs984e5qg.xyz:38157?mport=30001-39999&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%20%E4%B8%93%E7%BA%BF
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@sg.xn--3bs984e5qg.xyz:30645?mport=30001-39999&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11%20%E4%B8%93%E7%BA%BF
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@sg.xn--3bs984e5qg.xyz:33220?mport=30001-39999&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%20%E4%B8%93%E7%BA%BF
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@sg.xn--3bs984e5qg.xyz:36174?mport=30001-39999&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%20%E4%B8%93%E7%BA%BF
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@sg.xn--3bs984e5qg.xyz:34924?mport=30001-39999&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11%20%E4%B8%93%E7%BA%BF
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@us.xn--3bs984e5qg.xyz:33053?mport=30001-39999&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%20%E4%B8%93%E7%BA%BF
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@us.xn--3bs984e5qg.xyz:36241?mport=30001-39999&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD1%20%E4%B8%93%E7%BA%BF
 
-hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@us.xn--3bs984e5qg.xyz:36231?mport=30001-39999&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD1%20%E4%B8%93%E7%BA%BF
+hysteria2://2b7982c6-6d53-4d98-bbf3-4106c1f83d57@us.xn--3bs984e5qg.xyz:38922?mport=30001-39999&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%20%E4%B8%93%E7%BA%BF
 
 hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hsadly.huasuan666.top:22159/?insecure=1&sni=hsadly.huasuan666.top#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
 
@@ -40,7 +40,7 @@ hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hsfg.huasuan666.top:22158/?inse
 
 hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hshl.huasuan666.top:22157/?insecure=1&sni=hshl.huasuan666.top#%E8%8D%B7%E5%85%B0
 
-hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hsmg.huasuan666.top:22151/?insecure=1&sni=hsmg.huasuan666.top#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A157.18%20MB
+hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hsmg.huasuan666.top:22151/?insecure=1&sni=hsmg.huasuan666.top#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A0
 
 hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hsmg.huasuan666.top:22151/?insecure=1&sni=hsmg.huasuan666.top#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A%E9%95%BF%E6%9C%9F%E6%9C%89%E6%95%88
 
@@ -54,21 +54,21 @@ hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hsxjp.huasuan666.top:22154/?ins
 
 hysteria2://998d8c6e-cbdb-4836-9fde-fe3eecb321d4@hsyg.huasuan666.top:22156/?insecure=1&sni=hsyg.huasuan666.top#%E8%8B%B1%E5%9B%BD
 
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@146.235.51.91:61152?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=EQmk-ZqvDi4lbrzF_qqkbo_lFv_1SKKNKVGuk2-BsRk&sid=ac12899abace52&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=qq#%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@146.235.51.91:61152?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=EQmk-ZqvDi4lbrzF_qqkbo_lFv_1SKKNKVGuk2-BsRk&sid=ac12899abace52&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF
 
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@158.180.36.225:64452?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=kuUK6cpkUqYScm1MwKgeB41JBmAOcpY4zXq4fTyJ9RU&sid=ee1cd94f&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@158.180.36.225:64452?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=kuUK6cpkUqYScm1MwKgeB41JBmAOcpY4zXq4fTyJ9RU&sid=ee1cd94f&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD
 
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@31.40.205.42:32223?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=dXwonwg9IAAXTVdh8-vhzgP1u6yhJOjVlWrx1fWOzFU&sid=77&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=ios#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@31.40.205.42:32223?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=dXwonwg9IAAXTVdh8-vhzgP1u6yhJOjVlWrx1fWOzFU&sid=77&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6
 
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.100.135:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=ORXZoe3pY5Cu4_E_VZ0Uqnb6aVfpqidC30-B8AfUpys&sid=eb0325a469&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=edge#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+04
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.100.135:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=ORXZoe3pY5Cu4_E_VZ0Uqnb6aVfpqidC30-B8AfUpys&sid=eb0325a469&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=qq#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+04
 
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.77:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=fpW2C8i9N9DM6kVILbCOhxxCgRUhZikdM8sGT1Nb8iw&sid=9cb783&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=safari#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+03
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.77:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=fpW2C8i9N9DM6kVILbCOhxxCgRUhZikdM8sGT1Nb8iw&sid=9cb783&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=edge#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+03
 
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.82:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=rMfhtOgMGfc1eZXxx7vxBC1RzSH3MJ5MAaZOE-Vx2WU&sid=c28eecde4a&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=safari#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+05
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.101.82:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=rMfhtOgMGfc1eZXxx7vxBC1RzSH3MJ5MAaZOE-Vx2WU&sid=c28eecde4a&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+05
 
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.22:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=qaSqX50p-DEVvEuhkD2fbqCdPWqrazciiznb0wXxJiU&sid=ceea394c&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=edge#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+02
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.22:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=qaSqX50p-DEVvEuhkD2fbqCdPWqrazciiznb0wXxJiU&sid=ceea394c&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=qq#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+02
 
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.231:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=M022yb1IeTFbwAOoc5CLV9AJGQL2gCDHPmoREhiIfiA&sid=8244cc000e&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=safari#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+06
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.231:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=M022yb1IeTFbwAOoc5CLV9AJGQL2gCDHPmoREhiIfiA&sid=8244cc000e&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+06
 
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@38.225.102.31:43000?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=uqShUD8Z-3FH3StSBpj9sQrLSOkyGD_AkIgSEuWMwVI&sid=8c6d66793d191a&sni=www.hkust.edu.hk&servername=www.hkust.edu.hk&spx=%2F&fp=edge#%F0%9F%87%AD%F0%9F%87%B0Readyserver+%E9%A6%99%E6%B8%AF10G+07
 
@@ -76,7 +76,7 @@ vless://c33b1535-1557-4e0b-aa2b-f326c6151436@69.30.232.19:25536?mode=multi&secur
 
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@69.30.232.19:25536?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=irtQgJFTTitSdVA6IsflGdbV1bq_qjC05cM6yov-7m0&sid=2c8625&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=chrome#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A%E9%95%BF%E6%9C%9F%E6%9C%89%E6%95%88
 
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@69.30.232.19:25536?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=irtQgJFTTitSdVA6IsflGdbV1bq_qjC05cM6yov-7m0&sid=2c8625&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%A0%AA%E8%90%A8%E6%96%AF04+%E8%8A%82%E7%82%B9%E8%AF%B7%E4%BB%8E%E5%AE%98%E7%BD%91%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%8F%96%E7%8B%AC%E7%AB%8B%E8%AE%A2%E9%98%85+xb.inekokkk.immobilien
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@69.30.232.19:25536?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=irtQgJFTTitSdVA6IsflGdbV1bq_qjC05cM6yov-7m0&sid=2c8625&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%A0%AA%E8%90%A8%E6%96%AF04+%E8%8A%82%E7%82%B9%E8%AF%B7%E4%BB%8E%E5%AE%98%E7%BD%91%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%8F%96%E7%8B%AC%E7%AB%8B%E8%AE%A2%E9%98%85+xb.inekokkk.immobilien
 
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@[2602:f6f6:2:9cc1:0000:0000:0000:0001]:25538?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=-T49iNxTCFqqMvpjLb0xXd8GXYpy8zbF1nBz4KNpOBI&sid=5177f0&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6+%E4%BB%85ipv6+TG%E7%BE%A4+https%3A%2F%2Ft.me%2FAMEICLOUD
+vless://c33b1535-1557-4e0b-aa2b-f326c6151436@[2602:f6f6:2:9cc1:0000:0000:0000:0001]:25538?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=-T49iNxTCFqqMvpjLb0xXd8GXYpy8zbF1nBz4KNpOBI&sid=5177f0&sni=apps.apple.com&servername=apps.apple.com&spx=%2F&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6+%E4%BB%85ipv6+TG%E7%BE%A4+https%3A%2F%2Ft.me%2FAMEICLOUD
 
