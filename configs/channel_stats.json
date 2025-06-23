@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-23T03:57:30.506709+00:00",
+  "timestamp": "2025-06-23T04:40:30.343765+00:00",
   "channels": [
     {
       "url": "https://awa.inekokkk.immobilien/amei/6ca22ad3b96aa6601fbe4457dad107a2",
@@ -8,11 +8,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 1.3,
+        "avg_response_time": 1.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.83,
-        "last_success": "2025-06-23T03:57:25.832680+00:00",
+        "overall_score": 75.15,
+        "last_success": "2025-06-23T04:40:25.263881+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.22,
-        "last_success": "2025-06-23T03:57:28.214102+00:00",
+        "overall_score": 75.81,
+        "last_success": "2025-06-23T04:40:27.918888+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
@@ -54,11 +54,11 @@
         "total_configs": 156,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.29,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.49,
-        "last_success": "2025-06-23T03:57:30.506006+00:00",
+        "overall_score": 76.29,
+        "last_success": "2025-06-23T04:40:30.343157+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 12,
