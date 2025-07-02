@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-07-02T19:09:03.079880+00:00",
+  "timestamp": "2025-07-02T19:12:36.211955+00:00",
   "channels": [
     {
-      "url": "https://api.adviceslip.xyz/api-b/sub/MTZfNzE5MjIzOTEyNl8xLDE3NTE0NDI0NTIeU1xQYJN3z",
-      "enabled": false,
+      "url": "https://yjjd.yunjijd.xyz/api/v1/client/subscribe?token=de7669e139184bb258623c0d6afd12e8",
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
+        "total_configs": 132,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.52,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 76.31,
+        "last_success": "2025-07-02T19:12:36.211213+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 0,
+          "hysteria2://": 11,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
