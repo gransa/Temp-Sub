@@ -3,7 +3,7 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://api.adviceslip.xyz/api-b/sub/MTZfNzE5MjIzOTEyNl8xLDE3NTE0NDI0NTIeU1xQYJN3z",
+    "https://yjjd.yunjijd.xyz/api/v1/client/subscribe?token=de7669e139184bb258623c0d6afd12e8",
     # Add more URLs here if you want to include additional sources.
 ]
 
