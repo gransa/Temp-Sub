@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-06-25T22:32:18.913528+00:00",
+  "timestamp": "2025-07-02T07:47:32.293979+00:00",
   "channels": [
     {
-      "url": "https://awa",
+      "url": "https://api.adviceslip.xyz/api-b/sub/MTZfNzE5MjIzOTEyNl8xLDE3NTE0NDIzNjEDS8hl3bYD0",
       "enabled": false,
       "metrics": {
         "total_configs": 0,
