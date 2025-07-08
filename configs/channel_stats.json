@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-08T15:13:32.239413+00:00",
+  "timestamp": "2025-07-08T16:15:09.289968+00:00",
   "channels": [
     {
       "url": "https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=cbd8313557643c68d3ca417ff61c7732",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 76.55,
-        "last_success": "2025-07-08T15:13:32.238681+00:00",
+        "last_success": "2025-07-08T16:15:09.289358+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 12,
