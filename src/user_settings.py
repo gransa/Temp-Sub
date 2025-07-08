@@ -5,7 +5,6 @@
 SOURCE_URLS = [
     "https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=cbd8313557643c68d3ca417ff61c7732",
     "https://sub.cloxy.io/cloxy?token=ec0d0114e3dc97d746285c6edee3ee02",
-    "https://sub.cloxy.io/cloxy?token=9c17f88aa55bc68cd5ca5d5d09dbe9ed",
     # Add more URLs here if you want to include additional sources.
 ]
 
