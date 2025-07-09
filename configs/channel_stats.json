@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-09T17:13:13.567267+00:00",
+  "timestamp": "2025-07-09T18:17:02.531482+00:00",
   "channels": [
     {
       "url": "https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=cbd8313557643c68d3ca417ff61c7732",
@@ -8,11 +8,11 @@
         "total_configs": 156,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 76.63,
-        "last_success": "2025-07-09T17:13:10.582633+00:00",
+        "last_success": "2025-07-09T18:16:59.672928+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 12,
@@ -31,11 +31,11 @@
         "total_configs": 380,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.98,
+        "avg_response_time": 0.85,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.99,
-        "last_success": "2025-07-09T17:13:13.566593+00:00",
+        "overall_score": 74.18,
+        "last_success": "2025-07-09T18:17:02.530808+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
