@@ -10,11 +10,11 @@ hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjddg.yunjijd.xyz:26823/?insec
 
 hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E4%BF%84%E7%BD%97%E6%96%AF
 
-hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A274.58%20GB
+hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A253.16%20GB
 
 hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-04
 
-hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A26%20%E5%A4%A9
+hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdels.yunjijd.xyz:26123/?insecure=1&sni=yjjdels.yunjijd.xyz#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A25%20%E5%A4%A9
 
 hysteria2://cd5eb0a9-4f4b-40af-9f94-d4d07e802d6e@yjjdhg.yunjijd.xyz:26723/?insecure=1&sni=yjjdhg.yunjijd.xyz#%E9%9F%A9%E5%9B%BD
 
@@ -34,9 +34,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@us-01.cloxynode.com:35515#Plan%20expiration%3A%202025-10-07
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20292.5%20GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@us-01.cloxynode.com:35515#Remaining%20data%20traffic%3A%20291.18%20GB
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2029%20days
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2028%20days
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@vn-01.cloxynode.com:35515#VN-Hanoi-01
 
