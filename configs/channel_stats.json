@@ -1,29 +1,6 @@
 {
-  "timestamp": "2025-07-10T03:16:36.229722+00:00",
+  "timestamp": "2025-07-10T04:02:37.586162+00:00",
   "channels": [
-    {
-      "url": "https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=cbd8313557643c68d3ca417ff61c7732",
-      "enabled": true,
-      "metrics": {
-        "total_configs": 156,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.38,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 76.35,
-        "last_success": "2025-07-10T03:16:33.202274+00:00",
-        "protocol_counts": {
-          "wireguard://": 0,
-          "hysteria2://": 12,
-          "vless://": 0,
-          "vmess://": 0,
-          "ss://": 0,
-          "trojan://": 0,
-          "tuic://": 0
-        }
-      }
-    },
     {
       "url": "https://sub.cloxy.io/cloxy?token=ec0d0114e3dc97d746285c6edee3ee02",
       "enabled": true,
@@ -31,11 +8,11 @@
         "total_configs": 380,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 1.02,
+        "avg_response_time": 1.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.92,
-        "last_success": "2025-07-10T03:16:36.229151+00:00",
+        "overall_score": 73.83,
+        "last_success": "2025-07-10T04:02:37.585552+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
