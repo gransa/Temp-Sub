@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-10T21:12:10.946822+00:00",
+  "timestamp": "2025-07-10T22:11:42.402973+00:00",
   "channels": [
     {
       "url": "https://sub.cloxy.io/cloxy?token=ec0d0114e3dc97d746285c6edee3ee02",
@@ -8,11 +8,11 @@
         "total_configs": 380,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.9,
+        "avg_response_time": 1.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.11,
-        "last_success": "2025-07-10T21:12:10.946099+00:00",
+        "overall_score": 73.86,
+        "last_success": "2025-07-10T22:11:42.402336+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
