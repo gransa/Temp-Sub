@@ -3,7 +3,6 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=cbd8313557643c68d3ca417ff61c7732",
     "https://sub.cloxy.io/cloxy?token=ec0d0114e3dc97d746285c6edee3ee02",
     # Add more URLs here if you want to include additional sources.
 ]
