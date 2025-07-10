@@ -19,7 +19,7 @@ SPECIFIC_CONFIG_COUNT = 100
 # Dictionary of protocols to enable or disable.
 # Set each protocol to True to enable, False to disable.
 ENABLED_PROTOCOLS = {
-    "wireguard://": True,
+    "wireguard://": False,
     "hysteria2://": True,
     "vless://": True,
     "vmess://": True,
