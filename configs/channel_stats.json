@@ -1,24 +1,24 @@
 {
-  "timestamp": "2025-07-11T14:12:42.908603+00:00",
+  "timestamp": "2025-07-11T15:12:55.728476+00:00",
   "channels": [
     {
       "url": "https://sub.cloxy.xyz/cloxy/ec0d0114e3dc97d746285c6edee3ee02",
       "enabled": true,
       "metrics": {
         "total_configs": 132,
-        "valid_configs": 2,
-        "unique_configs": 2,
-        "avg_response_time": 0.81,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.97,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.17,
-        "last_success": "2025-07-11T14:12:42.907921+00:00",
+        "overall_score": 75.26,
+        "last_success": "2025-07-11T15:12:55.727802+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
-          "ss://": 2,
+          "ss://": 9,
           "trojan://": 0,
           "tuic://": 0
         }
