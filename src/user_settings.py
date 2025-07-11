@@ -3,7 +3,7 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://sub.cloxy.io/cloxy?token=ec0d0114e3dc97d746285c6edee3ee02",
+    "https://sub.cloxy.xyz/cloxy/ec0d0114e3dc97d746285c6edee3ee02",
     # Add more URLs here if you want to include additional sources.
 ]
 
