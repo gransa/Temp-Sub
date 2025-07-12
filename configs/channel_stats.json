@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-12T18:15:40.001009+00:00",
+  "timestamp": "2025-07-12T18:24:27.458829+00:00",
   "channels": [
     {
       "url": "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
@@ -8,11 +8,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.32,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.31,
-        "last_success": "2025-07-12T18:15:37.137956+00:00",
+        "overall_score": 76.43,
+        "last_success": "2025-07-12T18:24:20.689491+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
@@ -31,17 +31,40 @@
         "total_configs": 1892,
         "valid_configs": 34,
         "unique_configs": 34,
-        "avg_response_time": 0.84,
+        "avg_response_time": 2.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.2,
-        "last_success": "2025-07-12T18:15:40.000364+00:00",
+        "overall_score": 71.97,
+        "last_success": "2025-07-12T18:24:25.037551+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 23,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 11,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://www.xg-hub.icu/api/v1/client/subscribe?token=65ae7e591b4b47ce4e4e19693db54f45",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 110,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.42,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 76.64,
+        "last_success": "2025-07-12T18:24:27.458174+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 10,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
           "trojan://": 0,
           "tuic://": 0
         }
