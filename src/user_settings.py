@@ -5,6 +5,7 @@
 SOURCE_URLS = [
     "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
     "https://sub.xn--2vxn29amga.com/s/a882542b2d7b11aeead5b7fb6c2521f1",
+    "https://www.xg-hub.icu/api/v1/client/subscribe?token=65ae7e591b4b47ce4e4e19693db54f45",
     # Add more URLs here if you want to include additional sources.
 ]
 
