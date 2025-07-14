@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-14T07:16:50.988236+00:00",
+  "timestamp": "2025-07-14T08:18:56.296389+00:00",
   "channels": [
     {
       "url": "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
@@ -8,11 +8,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.21,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.51,
-        "last_success": "2025-07-14T07:16:50.987563+00:00",
+        "overall_score": 76.47,
+        "last_success": "2025-07-14T08:18:56.295688+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
