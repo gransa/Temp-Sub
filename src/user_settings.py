@@ -5,6 +5,7 @@
 SOURCE_URLS = [
     "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
     "https://loopycloudcfjiasucdn.xx.kg/api/838286f3e05dd1dd2c41446489aca566",
+    "https://ne997.688997.xyz/api/v1/client/subscribe?token=157b7041c116259e45fa7c82b0659aff",
     # Add more URLs here if you want to include additional sources.
 ]
 
