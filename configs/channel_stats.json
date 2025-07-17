@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-17T20:13:42.950926+00:00",
+  "timestamp": "2025-07-17T21:11:46.361285+00:00",
   "channels": [
     {
       "url": "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
@@ -8,11 +8,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.22,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.46,
-        "last_success": "2025-07-17T20:13:38.139702+00:00",
+        "overall_score": 76.49,
+        "last_success": "2025-07-17T21:11:38.527203+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
@@ -31,11 +31,11 @@
         "total_configs": 132,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.66,
+        "avg_response_time": 3.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.1,
-        "last_success": "2025-07-17T20:13:40.797928+00:00",
+        "overall_score": 71.6,
+        "last_success": "2025-07-17T21:11:44.181563+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.56,
-        "last_success": "2025-07-17T20:13:42.950246+00:00",
+        "overall_score": 76.52,
+        "last_success": "2025-07-17T21:11:46.360670+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
