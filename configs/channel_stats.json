@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-17T23:12:58.853351+00:00",
+  "timestamp": "2025-07-18T00:44:29.516655+00:00",
   "channels": [
     {
       "url": "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
@@ -8,11 +8,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.29,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.35,
-        "last_success": "2025-07-17T23:12:50.049765+00:00",
+        "overall_score": 76.57,
+        "last_success": "2025-07-18T00:44:24.746495+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
@@ -31,11 +31,11 @@
         "total_configs": 132,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 4.59,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.19,
-        "last_success": "2025-07-17T23:12:56.646183+00:00",
+        "overall_score": 76.16,
+        "last_success": "2025-07-18T00:44:27.361345+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -48,17 +48,17 @@
       }
     },
     {
-      "url": "https://ne997.688997.xyz/api/v1/client/subscribe?token=157b7041c116259e45fa7c82b0659aff",
+      "url": "https://ne997.688997.xyz/api/v1/client/subscribe?token=5fd9707bf06e929a6d6e1a052f21fe89",
       "enabled": true,
       "metrics": {
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.48,
-        "last_success": "2025-07-17T23:12:58.852703+00:00",
+        "overall_score": 76.56,
+        "last_success": "2025-07-18T00:44:29.516034+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
