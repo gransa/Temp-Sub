@@ -4,7 +4,7 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
-    "https://loopycloudcfjiasucdn.xx.kg/api/43289e4d1c97e6db50524b2bc357c1c2",
+    "https://loopycloudcfjiasucdn.xx.kg/api/2cbb35024815645d154f8288cc136df7",
     "https://ne997.688997.xyz/api/v1/client/subscribe?token=5fd9707bf06e929a6d6e1a052f21fe89",
     # Add more URLs here if you want to include additional sources.
 ]
