@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-19T19:09:05.291150+00:00",
+  "timestamp": "2025-07-19T20:03:09.534358+00:00",
   "channels": [
     {
       "url": "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
@@ -8,11 +8,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.32,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.31,
-        "last_success": "2025-07-19T19:09:00.509934+00:00",
+        "overall_score": 75.97,
+        "last_success": "2025-07-19T20:03:02.228438+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
@@ -31,15 +31,38 @@
         "total_configs": 110,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.47,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.57,
-        "last_success": "2025-07-19T19:09:02.981847+00:00",
+        "overall_score": 76.35,
+        "last_success": "2025-07-19T20:03:04.848269+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 10,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://qqyz.yinheyz.cfd/api/v1/client/subscribe?token=2b0e60c7f59e0b319c4444f1345a674d",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 90,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.39,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 76.91,
+        "last_success": "2025-07-19T20:03:07.242568+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 9,
+          "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
@@ -54,11 +77,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.31,
+        "avg_response_time": 0.29,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.33,
-        "last_success": "2025-07-19T19:09:05.290466+00:00",
+        "overall_score": 76.35,
+        "last_success": "2025-07-19T20:03:09.533706+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
