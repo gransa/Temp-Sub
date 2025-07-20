@@ -6,7 +6,6 @@ SOURCE_URLS = [
     "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
     "https://loopycloudcfjiasucdn.xx.kg/api/ca692ddffaf7a69b9c15e9be536a457f",
     "https://qqyz.yinheyz.cfd/api/v1/client/subscribe?token=2b0e60c7f59e0b319c4444f1345a674d",
-    "https://ne997.688997.xyz/api/v1/client/subscribe?token=5fd9707bf06e929a6d6e1a052f21fe89",
     # Add more URLs here if you want to include additional sources.
 ]
 
