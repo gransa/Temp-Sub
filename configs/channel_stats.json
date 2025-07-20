@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-20T22:11:47.558111+00:00",
+  "timestamp": "2025-07-20T22:58:34.963650+00:00",
   "channels": [
     {
       "url": "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
@@ -8,11 +8,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.01,
-        "last_success": "2025-07-20T22:11:36.341597+00:00",
+        "overall_score": 76.3,
+        "last_success": "2025-07-20T22:58:26.200288+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
@@ -31,11 +31,11 @@
         "total_configs": 110,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 4.51,
+        "avg_response_time": 4.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 70.51,
-        "last_success": "2025-07-20T22:11:42.848616+00:00",
+        "overall_score": 70.45,
+        "last_success": "2025-07-20T22:58:32.747893+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,37 +54,14 @@
         "total_configs": 110,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.21,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.61,
-        "last_success": "2025-07-20T22:11:45.289410+00:00",
+        "overall_score": 76.95,
+        "last_success": "2025-07-20T22:58:34.963042+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,
-          "vless://": 0,
-          "vmess://": 0,
-          "ss://": 0,
-          "trojan://": 0,
-          "tuic://": 0
-        }
-      }
-    },
-    {
-      "url": "https://ne997.688997.xyz/api/v1/client/subscribe?token=5fd9707bf06e929a6d6e1a052f21fe89",
-      "enabled": true,
-      "metrics": {
-        "total_configs": 182,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.27,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 76.39,
-        "last_success": "2025-07-20T22:11:47.557474+00:00",
-        "protocol_counts": {
-          "wireguard://": 0,
-          "hysteria2://": 13,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
