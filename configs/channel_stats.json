@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-21T15:18:37.181633+00:00",
+  "timestamp": "2025-07-21T15:56:47.096345+00:00",
   "channels": [
     {
       "url": "https://wy.flylink.cyou/api/v1/client/subscribe?token=d984bede85ab3f30dd029d49027630e6",
@@ -8,11 +8,11 @@
         "total_configs": 182,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.79,
+        "avg_response_time": 0.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.6,
-        "last_success": "2025-07-21T15:18:28.403275+00:00",
+        "overall_score": 76.49,
+        "last_success": "2025-07-21T15:56:36.794521+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
@@ -31,11 +31,11 @@
         "total_configs": 132,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.15,
-        "last_success": "2025-07-21T15:18:31.025122+00:00",
+        "overall_score": 76.36,
+        "last_success": "2025-07-21T15:56:39.278623+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 600,
         "valid_configs": 24,
         "unique_configs": 24,
-        "avg_response_time": 0.23,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.66,
-        "last_success": "2025-07-21T15:18:33.257619+00:00",
+        "overall_score": 75.46,
+        "last_success": "2025-07-21T15:56:41.647952+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 24,
@@ -77,15 +77,38 @@
         "total_configs": 110,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 1.92,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.39,
-        "last_success": "2025-07-21T15:18:37.180971+00:00",
+        "overall_score": 76.98,
+        "last_success": "2025-07-21T15:56:43.841414+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,
           "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://pianyi.wangpankehuduan.homes/answer/land?token=41b850dd4d51e94823d319c98de57097",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 240,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 1.25,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 74.68,
+        "last_success": "2025-07-21T15:56:47.095706+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 5,
+          "vless://": 10,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
