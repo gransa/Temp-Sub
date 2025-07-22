@@ -7,7 +7,6 @@ SOURCE_URLS = [
     "https://loopycloudcfjiasucdn.xx.kg/api/ca692ddffaf7a69b9c15e9be536a457f",
     "https://sub2.ppldata.xyz/api/v1/client/subscribe?token=5ecc973f73ba93fde3e35707e1a5006e",
     "https://qqyz.yinheyz.cfd/api/v1/client/subscribe?token=2b0e60c7f59e0b319c4444f1345a674d",
-    "https://pianyi.wangpankehuduan.homes/answer/land?token=41b850dd4d51e94823d319c98de57097",
     # Add more URLs here if you want to include additional sources.
 ]
 
