@@ -16,7 +16,7 @@ hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@nlnl.yinheyz.cfd:33856/?insecur
 
 hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@sgsg.yinheyz.cfd:33686/?insecure=1&sni=sgsg.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#SG-%E6%96%B0%E5%8A%A0%E5%9D%A1
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@usus.yinheyz.cfd:33856/?insecure=1&sni=usus.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A373.5%20GB
+hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@usus.yinheyz.cfd:33856/?insecure=1&sni=usus.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A372.99%20GB
 
 hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@usus.yinheyz.cfd:33856/?insecure=1&sni=usus.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-20
 
