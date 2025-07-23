@@ -4,23 +4,43 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@caca.yinheyz.cfd:33756/?insecure=1&sni=caca.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#CA-%E5%A4%9A%E4%BC%A6%E5%A4%9A
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-au-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@frfr.yinheyz.cfd:33426/?insecure=1&sni=frfr.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#FR-%E5%B7%B4%E9%BB%8E
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-au-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@gbgb.yinheyz.cfd:33996/?insecure=1&sni=gbgb.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#GB-%E4%BC%A6%E6%95%A6
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-ca-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@inin.yinheyz.cfd:33756/?insecure=1&sni=inin.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#IN-%E7%8F%AD%E5%8A%A0%E7%BD%97%E5%B0%94
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-ca-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@nlnl.yinheyz.cfd:33856/?insecure=1&sni=nlnl.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#NL-%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-de-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@sgsg.yinheyz.cfd:33686/?insecure=1&sni=sgsg.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#SG-%E6%96%B0%E5%8A%A0%E5%9D%A1
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-de-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@usus.yinheyz.cfd:33856/?insecure=1&sni=usus.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A371.01%20GB
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-fr-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@usus.yinheyz.cfd:33856/?insecure=1&sni=usus.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-20
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-fr-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@usus.yinheyz.cfd:33856/?insecure=1&sni=usus.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A28%20%E5%A4%A9
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-gb-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
 
-hysteria2://02c3a75d-6f2a-440c-b9b7-74d71bcfaa09@usus.yinheyz.cfd:33856/?insecure=1&sni=usus.yinheyz.cfd&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#US-%E7%BA%BD%E7%BA%A6
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-gb-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
+
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-ie-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
+
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-ie-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AE%F0%9F%87%AA%20%E7%88%B1%E5%B0%94%E5%85%B0%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
+
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-in-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
+
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-in-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
+
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-jp-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
+
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-jp-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
+
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-se-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
+
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-se-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
+
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-sg-01.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
+
+hysteria2://164a1707-9c56-41ec-b5b1-d8ad5c2fa4e8@network-sg-02.ppldata.xyz:30000/?insecure=0&sni=network-lite.oss-cn-hongkong.aliyuncs.com&mport=30000-50000#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2002%EF%BD%9C1x%20%E4%B8%93%E7%BA%BF
 

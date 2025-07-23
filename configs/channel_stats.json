@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-07-23T13:32:58.594001+00:00",
+  "timestamp": "2025-07-23T14:00:30.974722+00:00",
   "channels": [
     {
-      "url": "https://qqyz.yinheyz.cfd/api/v1/client/subscribe?token=2b0e60c7f59e0b319c4444f1345a674d",
+      "url": "https://sub2.ppldata.xyz/api/v1/client/subscribe?token=b92341e18cf28e7cd5104d56d1fdb10e",
       "enabled": true,
       "metrics": {
-        "total_configs": 110,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.16,
+        "total_configs": 420,
+        "valid_configs": 20,
+        "unique_configs": 20,
+        "avg_response_time": 6.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.03,
-        "last_success": "2025-07-23T13:32:58.593371+00:00",
+        "overall_score": 66.15,
+        "last_success": "2025-07-23T14:00:30.973861+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 10,
+          "hysteria2://": 20,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
