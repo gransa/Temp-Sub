@@ -3,7 +3,7 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://qqyz.yinheyz.cfd/api/v1/client/subscribe?token=2b0e60c7f59e0b319c4444f1345a674d",
+    "https://sub2.ppldata.xyz/api/v1/client/subscribe?token=b92341e18cf28e7cd5104d56d1fdb10e",
     # Add more URLs here if you want to include additional sources.
 ]
 
