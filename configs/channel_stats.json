@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-23T11:11:37.665003+00:00",
+  "timestamp": "2025-07-23T12:25:20.086485+00:00",
   "channels": [
     {
       "url": "https://qqyz.yinheyz.cfd/api/v1/client/subscribe?token=2b0e60c7f59e0b319c4444f1345a674d",
@@ -8,11 +8,11 @@
         "total_configs": 110,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.76,
-        "last_success": "2025-07-23T11:11:37.664316+00:00",
+        "overall_score": 77.04,
+        "last_success": "2025-07-23T12:25:20.085723+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 10,
