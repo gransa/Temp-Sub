@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-24T05:18:48.073085+00:00",
+  "timestamp": "2025-07-24T06:19:21.832585+00:00",
   "channels": [
     {
       "url": "https://sub2.ppldata.xyz/api/v1/client/subscribe?token=b92341e18cf28e7cd5104d56d1fdb10e",
@@ -8,11 +8,11 @@
         "total_configs": 420,
         "valid_configs": 20,
         "unique_configs": 20,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.69,
-        "last_success": "2025-07-24T05:18:48.072414+00:00",
+        "overall_score": 75.61,
+        "last_success": "2025-07-24T06:19:21.831689+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 20,
