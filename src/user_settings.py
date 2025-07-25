@@ -3,7 +3,7 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "",
+    "http://38.207.177.31/api/v1/client/subscribe?token=0c357b2b627d1bfee5ff50e9f2201598#Nova%E5%8A%A0%E9%80%9F",
     # Add more URLs here if you want to include additional sources.
 ]
 
