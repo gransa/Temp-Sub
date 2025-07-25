@@ -1,1 +1,12 @@
+//profile-title: base64:8J+RvUFub255bW91cy3wnZWP
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/BXAMbot
+//profile-web-page-url: https://github.com/4n0nymou3
+
+hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@153.121.42.218:50000/?insecure=1&sni=www.microsoft.com&mport=50000-55000#%E6%97%A5%E6%9C%AC
+
+hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@45.11.1.62:50000/?insecure=1&sni=www.microsoft.com&mport=50000-55000#%E6%97%A5%E6%9C%AC2
+
+hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@87.254.23.104:50000/?insecure=1&sni=www.microsoft.com&mport=50000-55000#%E7%BE%8E%E5%9B%BD
 
