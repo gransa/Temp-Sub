@@ -3,7 +3,7 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "",
+    "https://gw.dport.top/api/v1/client/subscribe?token=1d6704a3418417799ab542a5a16ba57b",
     # Add more URLs here if you want to include additional sources.
 ]
 
