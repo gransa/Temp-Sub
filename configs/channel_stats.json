@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-03T17:11:16.892057+00:00",
+  "timestamp": "2025-08-03T18:16:55.815226+00:00",
   "channels": [
     {
       "url": "https://gw.dport.top/api/v1/client/subscribe?token=1d6704a3418417799ab542a5a16ba57b",
@@ -8,11 +8,11 @@
         "total_configs": 156,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.21,
-        "last_success": "2025-08-03T17:11:16.891378+00:00",
+        "overall_score": 76.34,
+        "last_success": "2025-08-03T18:16:55.814521+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 12,
