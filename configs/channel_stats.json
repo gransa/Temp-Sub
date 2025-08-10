@@ -1,22 +1,22 @@
 {
-  "timestamp": "2025-08-04T05:30:51.006970+00:00",
+  "timestamp": "2025-08-10T19:49:19.943315+00:00",
   "channels": [
     {
-      "url": "https://gw.dport.top/api/v1/client/subscribe?token=1d6704a3418417799ab542a5a16ba57b",
+      "url": "https://wanmeiwl3.xyz/gywl/c359faa6381ac483208d3569a4112f97",
       "enabled": true,
       "metrics": {
-        "total_configs": 156,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.76,
+        "total_configs": 380,
+        "valid_configs": 19,
+        "unique_configs": 19,
+        "avg_response_time": 0.29,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.78,
-        "last_success": "2025-08-04T05:30:51.006077+00:00",
+        "overall_score": 75.82,
+        "last_success": "2025-08-10T19:49:19.942555+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 12,
-          "vless://": 0,
+          "hysteria2://": 13,
+          "vless://": 6,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
