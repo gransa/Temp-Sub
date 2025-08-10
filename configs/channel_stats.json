@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-10T19:49:19.943315+00:00",
+  "timestamp": "2025-08-10T20:13:00.866248+00:00",
   "channels": [
     {
       "url": "https://wanmeiwl3.xyz/gywl/c359faa6381ac483208d3569a4112f97",
@@ -8,11 +8,11 @@
         "total_configs": 380,
         "valid_configs": 19,
         "unique_configs": 19,
-        "avg_response_time": 0.29,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.82,
-        "last_success": "2025-08-10T19:49:19.942555+00:00",
+        "overall_score": 76.07,
+        "last_success": "2025-08-10T20:13:00.865593+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 13,
