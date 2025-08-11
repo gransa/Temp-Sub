@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-11T05:21:24.765830+00:00",
+  "timestamp": "2025-08-11T06:20:36.584765+00:00",
   "channels": [
     {
       "url": "https://wanmeiwl3.xyz/gywl/c359faa6381ac483208d3569a4112f97",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.96,
-        "last_success": "2025-08-11T05:21:24.765152+00:00",
+        "last_success": "2025-08-11T06:20:36.584099+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
