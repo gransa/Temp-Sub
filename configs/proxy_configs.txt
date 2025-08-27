@@ -1,1 +1,20 @@
+//profile-title: base64:8J+RvUFub255bW91cy3wnZWP
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/BXAMbot
+//profile-web-page-url: https://github.com/4n0nymou3
+
+hysteria2://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@166.1.18.13:32246?sni=images-na.ssl-images-amazon.com&security=tls&obfs=salamander&obfs-password=d5P9i5NhqeECqbI3&insecure=1#%5BHy2%5D%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A500%20GB
+
+hysteria2://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@166.1.18.13:32246?sni=images-na.ssl-images-amazon.com&security=tls&obfs=salamander&obfs-password=d5P9i5NhqeECqbI3&insecure=1#%5BHy2%5D%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-28
+
+hysteria2://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@166.1.18.13:32246?sni=images-na.ssl-images-amazon.com&security=tls&obfs=salamander&obfs-password=d5P9i5NhqeECqbI3&insecure=1#%5BHy2%5D%E7%BE%8E%E5%9B%BD-%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E3-hy2%E9%AB%98%E9%80%9F
+
+hysteria2://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@166.1.18.13:32246?sni=images-na.ssl-images-amazon.com&security=tls&obfs=salamander&obfs-password=d5P9i5NhqeECqbI3&insecure=1#%5BHy2%5D%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A1%20%E5%A4%A9
+
+hysteria2://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@deguo1.vosniehcihwocc.cfd:443?sni=deguo1.vosniehcihwocc.cfd&security=tls&insecure=0#%5BHy2%5D%E5%BE%B7%E5%9B%BD1-hy2%E9%AB%98%E9%80%9F
+
+vless://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@34.92.166.45:49275?mode=multi&security=reality&encryption=none&type=tcp&pbk=x1WLSTZI7_c9ryFfyX9Xh8eFdSsrzYyJoI6x_aPZ2SE&sid=090923d70edae191&sni=images-na.ssl-images-amazon.com&servername=images-na.ssl-images-amazon.com&spx=%2F&fp=qq#%5Bvless%5D%E9%A6%99%E6%B8%AFGG2%E5%87%BA%E5%8F%A3
+
+vless://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@34.92.166.45:59275?mode=multi&security=reality&encryption=none&type=tcp&pbk=UQetUnews-iG6a3W0kg5bWhxMUz9uKzJKVpJsLYsqGs&sid=35abb7e50c8067&sni=images-na.ssl-images-amazon.com&servername=images-na.ssl-images-amazon.com&spx=%2F&fp=ios#%5Bvless%5D%E9%A6%99%E6%B8%AFGG1%E5%87%BA%E5%8F%A3
 
