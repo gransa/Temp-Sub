@@ -3,7 +3,7 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://cdnrss.starlinkclash.ggff.net/s/537510459205b828fec1bd5dce2973c0",
+    "",
     # Add more URLs here if you want to include additional sources.
 ]
 
