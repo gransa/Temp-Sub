@@ -14,7 +14,7 @@ hysteria2://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@166.1.18.13:32246?sni=images-na
 
 hysteria2://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@deguo1.vosniehcihwocc.cfd:443?sni=deguo1.vosniehcihwocc.cfd&security=tls&insecure=0#%5BHy2%5D%E5%BE%B7%E5%9B%BD1-hy2%E9%AB%98%E9%80%9F
 
-vless://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@34.92.166.45:49275?mode=multi&security=reality&encryption=none&type=tcp&pbk=x1WLSTZI7_c9ryFfyX9Xh8eFdSsrzYyJoI6x_aPZ2SE&sid=090923d70edae191&sni=images-na.ssl-images-amazon.com&servername=images-na.ssl-images-amazon.com&spx=%2F&fp=qq#%5Bvless%5D%E9%A6%99%E6%B8%AFGG2%E5%87%BA%E5%8F%A3
+vless://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@34.92.166.45:49275?mode=multi&security=reality&encryption=none&type=tcp&pbk=x1WLSTZI7_c9ryFfyX9Xh8eFdSsrzYyJoI6x_aPZ2SE&sid=090923d70edae191&sni=images-na.ssl-images-amazon.com&servername=images-na.ssl-images-amazon.com&spx=%2F&fp=edge#%5Bvless%5D%E9%A6%99%E6%B8%AFGG2%E5%87%BA%E5%8F%A3
 
-vless://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@34.92.166.45:59275?mode=multi&security=reality&encryption=none&type=tcp&pbk=UQetUnews-iG6a3W0kg5bWhxMUz9uKzJKVpJsLYsqGs&sid=35abb7e50c8067&sni=images-na.ssl-images-amazon.com&servername=images-na.ssl-images-amazon.com&spx=%2F&fp=ios#%5Bvless%5D%E9%A6%99%E6%B8%AFGG1%E5%87%BA%E5%8F%A3
+vless://fb1c7bb8-0f35-48c0-b52e-ed50c7dc6622@34.92.166.45:59275?mode=multi&security=reality&encryption=none&type=tcp&pbk=UQetUnews-iG6a3W0kg5bWhxMUz9uKzJKVpJsLYsqGs&sid=35abb7e50c8067&sni=images-na.ssl-images-amazon.com&servername=images-na.ssl-images-amazon.com&spx=%2F&fp=edge#%5Bvless%5D%E9%A6%99%E6%B8%AFGG1%E5%87%BA%E5%8F%A3
 

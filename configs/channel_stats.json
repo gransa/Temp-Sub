@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T20:05:29.867201+00:00",
+  "timestamp": "2025-08-27T20:12:46.517580+00:00",
   "channels": [
     {
       "url": "https://cdnrss.starlinkclash.ggff.net/s/537510459205b828fec1bd5dce2973c0",
@@ -8,11 +8,11 @@
         "total_configs": 56,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.99,
+        "avg_response_time": 1.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.64,
-        "last_success": "2025-08-27T20:05:29.866515+00:00",
+        "overall_score": 76.51,
+        "last_success": "2025-08-27T20:12:46.516983+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 5,
