@@ -3,7 +3,7 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "",
+    "https://sni.medicaltreatment.ir/rewrite?url=https%3A%2F%2Fgetafreenode.com%2Fsubscribe%2F%3Fuuid%3D942b9cb8-92fa-46ac-ae91-f69c8234434b%0Ahttps%3A%2F%2Fgetafreenode.com%2Fsubscribe%2F%3Fuuid%3D0cb527d9-6117-4bcf-a52b-1704b3458cef%0Ahttps%3A%2F%2Fgetafreenode.com%2Fsubscribe%2F%3Fuuid%3D5eaa121d-4362-444d-8219-29b02c35303a&nocache=1",
     # Add more URLs here if you want to include additional sources.
 ]
 
