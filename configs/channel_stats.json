@@ -1,23 +1,23 @@
 {
-  "timestamp": "2025-08-31T17:16:25.048963+00:00",
+  "timestamp": "2025-08-31T18:00:55.633148+00:00",
   "channels": [
     {
-      "url": "https://sni.medicaltreatment.ir/rewrite?url=https%3A%2F%2Fgetafreenode.com%2Fsubscribe%2F%3Fuuid%3D942b9cb8-92fa-46ac-ae91-f69c8234434b%0Ahttps%3A%2F%2Fgetafreenode.com%2Fsubscribe%2F%3Fuuid%3D0cb527d9-6117-4bcf-a52b-1704b3458cef%0Ahttps%3A%2F%2Fgetafreenode.com%2Fsubscribe%2F%3Fuuid%3D5eaa121d-4362-444d-8219-29b02c35303a&nocache=1",
+      "url": "https://url.medicaltreatment.ir/GAFN-VMess",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 6,
-        "unique_configs": 6,
-        "avg_response_time": 0.83,
+        "total_configs": 54,
+        "valid_configs": 18,
+        "unique_configs": 18,
+        "avg_response_time": 2.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.09,
-        "last_success": "2025-08-31T17:16:25.048373+00:00",
+        "overall_score": 80.24,
+        "last_success": "2025-08-31T18:00:55.632514+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 6,
+          "vmess://": 18,
           "ss://": 0,
           "trojan://": 0,
           "tuic://": 0
