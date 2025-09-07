@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-07T07:10:05.232724+00:00",
+  "timestamp": "2025-09-07T08:13:04.873210+00:00",
   "channels": [
     {
       "url": "https://url.medicaltreatment.ir/GAFN-VMess",
@@ -8,11 +8,11 @@
         "total_configs": 494,
         "valid_configs": 37,
         "unique_configs": 37,
-        "avg_response_time": 2.03,
+        "avg_response_time": 1.9,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.83,
-        "last_success": "2025-09-07T07:10:05.232009+00:00",
+        "overall_score": 74.03,
+        "last_success": "2025-09-07T08:13:04.872496+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
