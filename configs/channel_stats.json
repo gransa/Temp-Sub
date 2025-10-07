@@ -1,23 +1,23 @@
 {
-  "timestamp": "2025-09-09T18:58:20.568797+00:00",
+  "timestamp": "2025-10-07T17:33:09.081092+00:00",
   "channels": [
     {
-      "url": "https://url.medicaltreatment.ir/test",
+      "url": "https://fanyun.pro/s/df59a298161efc9554627903ac457017",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 1.96,
+        "total_configs": 306,
+        "valid_configs": 17,
+        "unique_configs": 17,
+        "avg_response_time": 0.81,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.56,
-        "last_success": "2025-09-09T18:58:20.568128+00:00",
+        "overall_score": 75.18,
+        "last_success": "2025-10-07T17:33:09.080319+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 0,
+          "hysteria2://": 17,
           "vless://": 0,
-          "vmess://": 8,
+          "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
           "tuic://": 0
