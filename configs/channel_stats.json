@@ -1,21 +1,21 @@
 {
-  "timestamp": "2025-10-08T14:20:03.564352+00:00",
+  "timestamp": "2025-10-08T15:16:38.620649+00:00",
   "channels": [
     {
-      "url": "https://fanyun.pro/s/df59a298161efc9554627903ac457017",
-      "enabled": false,
+      "url": "https://fanyun.pro/s/92861e4bbcacb991cbf29307cb7d5a58",
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
+        "total_configs": 306,
+        "valid_configs": 17,
+        "unique_configs": 17,
+        "avg_response_time": 8.41,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 63.77,
+        "last_success": "2025-10-08T15:16:38.619964+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 0,
+          "hysteria2://": 17,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
