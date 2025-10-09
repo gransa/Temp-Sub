@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T15:27:41.141097+00:00",
+  "timestamp": "2025-10-09T16:15:35.003449+00:00",
   "channels": [
     {
       "url": "https://fanyun.pro/s/92861e4bbcacb991cbf29307cb7d5a58",
@@ -8,11 +8,11 @@
         "total_configs": 420,
         "valid_configs": 20,
         "unique_configs": 20,
-        "avg_response_time": 1.21,
+        "avg_response_time": 1.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.37,
-        "last_success": "2025-10-09T15:27:41.140438+00:00",
+        "overall_score": 74.41,
+        "last_success": "2025-10-09T16:15:35.002820+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 20,
