@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-19T01:01:06.430363+00:00",
+  "timestamp": "2025-10-19T03:09:23.059457+00:00",
   "channels": [
     {
       "url": "https://bp.medicaltreatment.ir/sub?s=ssconf%3A%2F%2Fs3.amazonaws.com%2Fbeedynconprd%2Fzf38bv6oxi1nv3wfkpmxyfl8yj5fargza3foantoalu16vznl0ckxx7bgf1ufx51.json%23BeePass",
@@ -8,11 +8,11 @@
         "total_configs": 240,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.06,
-        "last_success": "2025-10-19T01:01:06.429660+00:00",
+        "overall_score": 75.75,
+        "last_success": "2025-10-19T03:09:23.058839+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
