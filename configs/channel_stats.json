@@ -1,24 +1,24 @@
 {
-  "timestamp": "2025-10-25T09:10:54.011752+00:00",
+  "timestamp": "2025-10-25T10:20:20.233169+00:00",
   "channels": [
     {
       "url": "https://bp.medicaltreatment.ir/sub?s=ssconf%3A%2F%2Fs3.amazonaws.com%2Fbeedynconprd%2Fzf38bv6oxi1nv3wfkpmxyfl8yj5fargza3foantoalu16vznl0ckxx7bgf1ufx51.json%23BeePass",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 240,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.3,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 76.11,
-        "last_success": "2025-10-25T09:10:54.011104+00:00",
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
-          "ss://": 15,
+          "ss://": 0,
           "trojan://": 0,
           "tuic://": 0
         }
